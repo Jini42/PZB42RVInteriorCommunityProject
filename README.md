@@ -1,4 +1,6 @@
 # PZB42RVInteriorCommunityProject
+Current Status - Not Working :(
+
 Community ran Project Zomboid B42 RV Interior Mod
 
 Currently with this upload the only changes to original mod files are
