@@ -1,0 +1,7 @@
+Sandbox_EN = {
+    Sandbox_RVInterior = "RV Interior"
+    Sandbox_RVInterior_SafeZombieDistance = "Minimum distance for zombies"
+    Sandbox_RVInterior_SafeZombieDistance_tooltip = "Zombies this distance or closer to a player will prevent them from entering vehicle interiors (0 = disabled)."
+    Sandbox_RVInterior_NotWhenChased = "Prevent entry when chased"
+    Sandbox_RVInterior_NotWhenChased_tooltip = "Zombies currently chasing the player will prevent them from entering vehicle interiors, no matter the distance."
+}

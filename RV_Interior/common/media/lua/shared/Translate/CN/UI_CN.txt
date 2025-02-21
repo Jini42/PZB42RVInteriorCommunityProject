@@ -1,0 +1,27 @@
+UI_CN = {
+    UI_enterrvinterior = "进入房间",
+    UI_cantEnter = "我进不去",
+    UI_zombiesChasing = "有丧尸追我！",
+    UI_zombiesNearby = "附近有丧尸。",
+    UI_noEnterInteriorSafehouse = "内部是安全屋",
+    UI_vehicleMoving = "我还在开车！",
+	UI_exitrvinterior = "离开",
+    UI_noFreeInteriors = "没有更多内饰可供此车型使用",
+    UI_rvInteriorMapsMissing = "内部地图尚未加载。现在返回车辆？",
+    UI_optionscreen_binding_RV_INTERIOR_ENTER = "进入或退出内部",
+
+	UI_rvdebug_menu = "[调试] RV Interior",
+	UI_rvdebug_sit = "坐在（或站在）车内进行调试。",
+	UI_rvdebug_no_interior = "没有适用于车型的内饰：",
+	UI_rvdebug_num = "显示此车辆的指定内饰。",
+	UI_rvdebug_none = "此车辆未分配给内部。",
+	UI_rvdebug_assigned_start = "分配给内部编号 ",
+    UI_rvdebug_teleport_vehicle = "传送到分配给内部的车辆。",
+	UI_rvdebug_teleport_dialog = "选择要传送到的内部编号。",
+	UI_rvdebug_manual_assign = "将此车辆分配给特定的内部编号。",
+	UI_rvdebug_manual_assign_dialog = "为此车辆选择新的内部编号（* = 已在使用中）。",
+	UI_rvdebug_reset = "使这辆车的当前内饰再次可用。",
+	UI_rvdebug_reset_confirm = "这将从该车辆中删除现有的内部分配，因此下次有人进入其内部时，他们将转而前往随机可用的内部。\n\n它还将使内部（在其当前状态下）可供玩家发现将来输入此车辆类型。\n\n继续吗？",
+	UI_rvdebug_isreset = "车辆内部可供发现，车辆重置为没有内部分配。",
+
+}

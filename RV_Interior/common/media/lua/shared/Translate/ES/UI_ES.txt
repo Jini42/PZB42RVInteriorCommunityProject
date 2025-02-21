@@ -1,0 +1,27 @@
+UI_ES = {
+    UI_enterrvinterior = "Ingresar",
+    UI_cantEnter = "No puedo entrar.",
+    UI_zombiesChasing = "¡Hay zombis detrás de mí!",
+    UI_zombiesNearby = "Hay zombis cerca.",
+    UI_noEnterInteriorSafehouse = "El interior es un Refugio.",
+    UI_vehicleMoving = "¡Todavía estoy conduciendo!",
+	UI_exitrvinterior = "Salir",
+    UI_noFreeInteriors = "No hay más interiores disponibles para este tipo de vehículo.",
+    UI_rvInteriorMapsMissing = "El mapa interior no se ha cargado. ¿Volver al vehículo ahora?",
+    UI_optionscreen_binding_RV_INTERIOR_ENTER = "Entrar o salir del interior",
+
+	UI_rvdebug_menu = "[DEPURAR] RV Interior",
+	UI_rvdebug_sit = "Siéntese (o espere) en el vehículo para depurar.",
+	UI_rvdebug_no_interior = "No hay interiores disponibles para el tipo de vehículo: ",
+	UI_rvdebug_num = "Muestre el interior asignado de este vehículo.",
+	UI_rvdebug_none = "Este vehículo no está asignado a un interior.",
+	UI_rvdebug_assigned_start = "Asignado a número interior ",
+    UI_rvdebug_teleport_vehicle = "Teletransportarse a un vehículo asignado a un interior.",
+	UI_rvdebug_teleport_dialog = "Seleccione el número interior para teletransportarse.",
+	UI_rvdebug_manual_assign = "Asigne este vehículo a un número interior específico.",
+	UI_rvdebug_manual_assign_dialog = "Seleccione el nuevo número interior para este vehículo (* = ya en uso).",
+	UI_rvdebug_reset = "Hacer que el interior actual de este vehículo vuelva a estar disponible.",
+	UI_rvdebug_reset_confirm = "Esto eliminará la asignación interior existente de este vehículo, por lo que la próxima vez que alguien ingrese a su interior, irá a un interior aleatorio disponible.\n\nTambién hará que el interior (en su estado actual) esté disponible para que lo descubran los jugadores. ingresar este tipo de vehículo en el futuro.\n\n¿Continuar?",
+	UI_rvdebug_isreset = "El interior del vehículo está disponible para el descubrimiento y el reinicio del vehículo para que no tenga asignación de interior.",
+
+}

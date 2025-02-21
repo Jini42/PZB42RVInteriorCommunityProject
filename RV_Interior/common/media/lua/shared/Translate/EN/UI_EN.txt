@@ -1,0 +1,27 @@
+UI_EN = {
+    UI_enterrvinterior = "Enter",
+    UI_cantEnter = "I can't enter.",
+    UI_zombiesChasing = "There are zombies after me!",
+    UI_zombiesNearby = "There are zombies nearby.",
+    UI_noEnterInteriorSafehouse = "The interior is a Safehouse.",
+    UI_vehicleMoving = "I'm still driving!",
+	UI_exitrvinterior = "Exit",
+    UI_noFreeInteriors = "There are no more interiors available for this vehicle type.",
+    UI_rvInteriorMapsMissing = "Interior map hasn't loaded.  Return to the vehicle now?",
+    UI_optionscreen_binding_RV_INTERIOR_ENTER = "Enter or Exit Interior",
+
+	UI_rvdebug_menu = "[DEBUG] RV Interior",
+	UI_rvdebug_sit = "Sit in (or stand by) the vehicle to debug.",
+	UI_rvdebug_no_interior = "No interiors available for vehicle type: ",
+	UI_rvdebug_num = "Show this vehicle's assigned interior.",
+	UI_rvdebug_none = "This vehicle is not assigned to an interior.",
+	UI_rvdebug_assigned_start = "Assigned to interior number ",
+    UI_rvdebug_teleport_vehicle = "Teleport to a vehicle assigned to an interior.",
+	UI_rvdebug_teleport_dialog = "Select the interior number to teleport to.",
+	UI_rvdebug_manual_assign = "Assign this vehicle to specific interior number.",
+	UI_rvdebug_manual_assign_dialog = "Select the new interior number for this vehicle (* = already in use).",
+	UI_rvdebug_reset = "Make this vehicle's current interior available again.",
+	UI_rvdebug_reset_confirm = "This will remove the existing interior assignment from this vehicle, so the next time someone enters its interior they will go to a random available interior instead.\n\nIt will also make the interior (in its current state) available to be discovered by players entering this vehicle type in future.\n\nProceed?",
+	UI_rvdebug_isreset = "Vehicle interior made available for discovery, and vehicle reset to have no interior assignment.",
+
+}
