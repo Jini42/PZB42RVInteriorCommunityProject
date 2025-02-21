@@ -1,3 +1,0 @@
-objects = {
-  { name = "", type = "SpawnPoint", x = 20251, y = 405, z = 0, width = 1, height = 1, properties = { Professions = "unemployed" } }
-}
