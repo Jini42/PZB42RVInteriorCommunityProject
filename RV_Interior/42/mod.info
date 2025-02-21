@@ -1,0 +1,7 @@
+name=RV Interior (v1.4.14)
+id=RV_Interior_MP
+description=Adds an interior to various large vehicles, such as RVs and busses.
+poster=poster.png
+icon=icon.png
+pack=rvinterior
+tiledef=rvinterior 446
