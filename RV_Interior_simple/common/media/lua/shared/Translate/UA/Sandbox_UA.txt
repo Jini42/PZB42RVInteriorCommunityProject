@@ -1,0 +1,7 @@
+Sandbox_UA = {
+    Sandbox_RVInterior = "RV Interior"
+    Sandbox_RVInterior_SafeZombieDistance = "Мінімальна відстань для зомбі"
+    Sandbox_RVInterior_SafeZombieDistance_tooltip = "Зомбі на цій відстані або ближче до гравця не дозволять йому проникнути всередину автомобіля (0 = вимкнено)."
+    Sandbox_RVInterior_NotWhenChased = "Запобігти проникненню під час погоні"
+    Sandbox_RVInterior_NotWhenChased_tooltip = "Зомбі, які переслідують гравця, не дозволять йому проникнути всередину автомобіля, незалежно від відстані."
+}

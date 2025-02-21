@@ -1,0 +1,7 @@
+name=RV_Interior
+id=RV_Interior
+description=Testing mod for build 42
+poster=poster.png
+icon=icon.png
+pack=MH_MkII_tile
+tiledef=MH_MkII_tile 1234

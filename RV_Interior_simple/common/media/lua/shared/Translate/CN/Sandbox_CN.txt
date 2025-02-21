@@ -1,0 +1,7 @@
+Sandbox_CN = {
+    Sandbox_RVInterior = "RV Interior"
+    Sandbox_RVInterior_SafeZombieDistance = "僵尸的最小距离"
+    Sandbox_RVInterior_SafeZombieDistance_tooltip = "这个距离或更接近玩家的僵尸将阻止他们进入车辆内部（0 = 禁用）。"
+    Sandbox_RVInterior_NotWhenChased = "被追赶时防止进入"
+    Sandbox_RVInterior_NotWhenChased_tooltip = "当前追逐玩家的僵尸将阻止他们进入车辆内部，无论距离多远。"
+}
