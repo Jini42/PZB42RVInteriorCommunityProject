@@ -1,0 +1,7 @@
+Sandbox_RU = {
+    Sandbox_RVInterior = "RV Interior"
+    Sandbox_RVInterior_SafeZombieDistance = "ћинимальное рассто€ние дл€ зомби"
+    Sandbox_RVInterior_SafeZombieDistance_tooltip = "«омби на этом рассто€нии или ближе к игроку не позвол€т ему проникнуть внутрь автомобил€ (0 = отключено)."
+    Sandbox_RVInterior_NotWhenChased = "ѕредотвратить проникновение во врем€ погони"
+    Sandbox_RVInterior_NotWhenChased_tooltip = "«омби, которые в насто€щее врем€ преследуют игрока, не позвол€т ему проникнуть внутрь автомобил€, независимо от рассто€ни€."
+}

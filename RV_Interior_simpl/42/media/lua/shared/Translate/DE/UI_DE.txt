@@ -1,0 +1,27 @@
+UI_DE = {
+    UI_enterrvinterior = "Eintreten",
+    UI_cantEnter = "Ich kann nicht eintreten.",
+    UI_zombiesChasing = "Es gibt Zombies nach mir!",
+    UI_zombiesNearby = "Es gibt Zombies in der Nähe.",
+    UI_noEnterInteriorSafehouse = "Der Innenraum ist ein Versteck.",
+    UI_vehicleMoving = "Ich fahre noch!",
+	UI_exitrvinterior = "Verlassen",
+    UI_noFreeInteriors = "Für diesen Fahrzeugtyp sind keine Innenausstattungen mehr verfügbar.",
+    UI_rvInteriorMapsMissing = "Innere Karte wurde nicht geladen. Jetzt zurück zum Fahrzeug?",
+    UI_optionscreen_binding_RV_INTERIOR_ENTER = "Innenraum betreten oder verlassen",
+
+	UI_rvdebug_menu = "[DEBUGGEN] RV Interior",
+	UI_rvdebug_sit = "Setzen Sie sich zum Debuggen in das Fahrzeug (oder stehen Sie neben ihm).",
+	UI_rvdebug_no_interior = "Keine Innenausstattung verfügbar für Fahrzeugtyp: ",
+	UI_rvdebug_num = "Zugewiesenen Innenraum dieses Fahrzeugs anzeigen.",
+	UI_rvdebug_none = "Dieses Fahrzeug ist keinem Innenraum zugeordnet.",
+	UI_rvdebug_assigned_start = "Innennummer zugeordnet ",
+    UI_rvdebug_teleport_vehicle = "Teleportiere dich zu einem Fahrzeug, das einem Innenraum zugewiesen ist.",
+	UI_rvdebug_teleport_dialog = "Wählen Sie die Innennummer aus, zu der Sie sich teleportieren möchten.",
+	UI_rvdebug_manual_assign = "Weisen Sie diesem Fahrzeug eine bestimmte Innenraumnummer zu.",
+	UI_rvdebug_manual_assign_dialog = "Wählen Sie die neue Innenraumnummer für dieses Fahrzeug (* = bereits verwendet).",
+	UI_rvdebug_reset = "Stellen Sie den aktuellen Innenraum dieses Fahrzeugs wieder zur Verfügung.",
+	UI_rvdebug_reset_confirm = "Dadurch wird die bestehende Innenzuweisung dieses Fahrzeugs entfernt, sodass jemand, wenn er das nächste Mal den Innenraum betritt, stattdessen einen zufällig verfügbaren Innenraum betritt.\n\nDadurch wird der Innenraum (in seinem aktuellen Zustand) auch für die Entdeckung durch Spieler zugänglich gemacht Geben Sie diesen Fahrzeugtyp in Zukunft ein.\n\nWeiter?",
+	UI_rvdebug_isreset = "Fahrzeuginnenraum zur Entdeckung verfügbar gemacht und Fahrzeug so zurückgesetzt, dass es keine Innenzuweisung hat.",
+
+}

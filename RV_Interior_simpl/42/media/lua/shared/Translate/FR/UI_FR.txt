@@ -1,0 +1,27 @@
+UI_FR = {
+    UI_enterrvinterior = "Entrer",
+    UI_cantEnter = "Je ne peux pas entrer.",
+    UI_zombiesChasing = "Il y a des zombies après moi!",
+    UI_zombiesNearby = "Il y a des zombies à proximité.",
+    UI_noEnterInteriorSafehouse = "L'intérieur est un Abri.",
+    UI_vehicleMoving = "Je conduis toujours!",
+	UI_exitrvinterior = "Sortir",
+    UI_noFreeInteriors = "Aucun intérieur n'a été trouvé pour ce type de véhicule.",
+    UI_rvInteriorMapsMissing = "La carte des intérieures n'a pas été chargée. Revenir au véhicule maintenant?",
+    UI_optionscreen_binding_RV_INTERIOR_ENTER = "Entrer ou sortir de l'intérieur",
+
+	UI_rvdebug_menu = "[DÉBOGUER] RV Interior",
+	UI_rvdebug_sit = "Asseyez-vous (ou rester à coté) du véhicule pour déboguer.",
+	UI_rvdebug_no_interior = "Aucun intérieur disponible pour le type de véhicule: ",
+	UI_rvdebug_num = "Afficher l'intérieur attribué à ce véhicule.",
+	UI_rvdebug_none = "Ce véhicule n'est pas assigné à un intérieur.",
+	UI_rvdebug_assigned_start = "Attribué au numéro d'intérieur ",
+    UI_rvdebug_teleport_vehicle = "Téléportez-vous dans un véhicule assigné à un intérieur.",
+	UI_rvdebug_teleport_dialog = "Sélectionnez le numéro d'intérieur vers lequel vous téléporter.",
+	UI_rvdebug_manual_assign = "Attribuez un numéro d'intérieur spécifique à ce véhicule.",
+	UI_rvdebug_manual_assign_dialog = "Sélectionnez le nouveau numéro intérieur pour ce véhicule (* = déjà utilisé).",
+	UI_rvdebug_reset = "Rendre l'intérieur actuel de ce véhicule à nouveau disponible.",
+	UI_rvdebug_reset_confirm = "Cela supprimera l'affectation d'intérieur existante de ce véhicule, donc la prochaine fois que quelqu'un entrera dans son intérieur, il ira à la place dans un intérieur disponible au hasard.\n\nCela rendra également l'intérieur (dans son état actuel) disponible à être découvert par les joueurs qui entreront ce type de véhicule à l'avenir.\n\nContinuer?",
+	UI_rvdebug_isreset = "Intérieur du véhicule mis à disposition pour la découverte et réinitialisation du véhicule afin de ne plus avoir aucune affectation d'intérieur.",
+
+}
