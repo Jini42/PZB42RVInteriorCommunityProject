@@ -8,7 +8,8 @@ Manual installation required, put folder in:
 Windows: ..\Users\YOURNAME\Zomboid\mods
 Linux: ..\home\YOURNAME\Zomboid\mods
 
-23.02.2025 -
+_
+23.02.2025:
 Updated and assigned version number 0.1.0
 Changed mod folder structure, now shouldn't have duplicate files (at first I didn't know where to put what, so I put stuff everywhere)
 A lot of corrections, renaming functions, code & comment cleaning and error fixing
@@ -29,8 +30,8 @@ Maybe Zombie can still spawn inside interior, have seen it happen once with _sim
 
 
 
-
-21.02.2025 -
+_
+21.02.2025:
 RV_Interior_simpl is a very simple working version, manual installation required 
 Current status v simpl:
 - hardcoded vehicles that have an interior (for now I have put some vanilla vehicles in a list)
