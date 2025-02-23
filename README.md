@@ -11,8 +11,8 @@ Linux: ..\home\YOURNAME\Zomboid\mods
 <br/><br/>
 <br/><br/>
 23.02.2025: <br/><br/>
-Updated and assigned version number 0.1.0
-Changed mod folder structure, now shouldn't have duplicate files (at first I didn't know where to put what, so I put stuff everywhere)
+Updated and assigned version number 0.1.0 <br/><br/>
+Changed mod folder structure, now shouldn't have duplicate files (at first I didn't know where to put what, so I put stuff everywhere).
 A lot of corrections, renaming functions, code & comment cleaning and error fixing <br/><br/>
 Changes:
 - (potentially) fixed adding radial menu slice multiple times
