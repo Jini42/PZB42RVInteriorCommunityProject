@@ -10,19 +10,19 @@ Linux: ..\home\YOURNAME\Zomboid\mods
 
 <br/><br/>
 <br/><br/>
-23.02.2025:
+23.02.2025: <br/><br/>
 Updated and assigned version number 0.1.0
 Changed mod folder structure, now shouldn't have duplicate files (at first I didn't know where to put what, so I put stuff everywhere)
-A lot of corrections, renaming functions, code & comment cleaning and error fixing
-Changes:
+A lot of corrections, renaming functions, code & comment cleaning and error fixing <br/><br/>
+Changes: <br/><br/>
 - (potentially) fixed adding radial menu slice multiple times
 - changed mod data saving and loading, should be able to leave after logging out inside interior now
 - added sandbox options back in, safe distance and chasing zombies will prevent from entering interior
 - added sandbox options to change vehicles that can have interior (else it will default to Van, StepVan and VanAmbulance)
 - now can have up to 12 vehicles with interiors, but same name vehicles will share the same interior instance
 - the way the interiors are assigned is by the order of entering it (the first time you enter an interior, it will always be the first interior map layout, no matter the vehicle)
-
-Potential issues: 
+<br/><br/>
+Potential issues: <br/><br/>
 I have no idea what would happen if you enter an interior and then go into sandbox settings, remove the vehicle and add back in, repeating the process
 Also since the interiors are assigned in order, switching the vehicle order in sandbox settings would maybe lead to "wrong" interiors? havent tested
 Something with Zombie distance did not work correctly on my end, for chasing Zombies entering is disabled, that worked for me
@@ -32,9 +32,9 @@ Maybe Zombie can still spawn inside interior, have seen it happen once with _sim
 
 <br/><br/>
 <br/><br/>
-21.02.2025:
-RV_Interior_simpl is a very simple working version, manual installation required 
-Current status v simpl:
+21.02.2025: <br/><br/>
+RV_Interior_simpl is a very simple working version, manual installation required <br/><br/>
+Current status v simpl: <br/><br/>
 - hardcoded vehicles that have an interior (for now I have put some vanilla vehicles in a list)
 - can only enter from inside vehicle via radial menu
 - exit via context menu while inside interior, going back to previous seat in vehicle
@@ -45,6 +45,6 @@ Current status v simpl:
 - no multiplayer
 - no hotkeys
 - i have seen a zombie spawn inside interior once
-
+<br/><br/>
 
 Planned: adding features from original mod bit by bit 
