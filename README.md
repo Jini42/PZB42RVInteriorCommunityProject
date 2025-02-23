@@ -4,9 +4,9 @@ Fork of Community ran Project Zomboid B42 RV Interior Mod from Janger
 All credits to original mod author Maxwell, his credits as well as the author of Doomsday Motorhome mod
 Steam Workshop Discussion Page: https://steamcommunity.com/workshop/filedetails/discussion/2822286426/592888629473342040/
 
-Manual installation required, put folder in:
-Windows: ..\Users\YOURNAME\Zomboid\mods
-Linux: ..\home\YOURNAME\Zomboid\mods
+Manual installation required, put folder in: <br/><br/>
+Windows: ..\Users\YOURNAME\Zomboid\mods <br/><br/>
+Linux: ..\home\YOURNAME\Zomboid\mods <br/><br/>
 
 <br/><br/>
 <br/><br/>
