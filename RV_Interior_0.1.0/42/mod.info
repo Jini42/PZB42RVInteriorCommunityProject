@@ -1,0 +1,11 @@
+name=[B42] RV_Interior
+id=RV_Interior
+description=Testing mod for build 42, community project. More info check pinned discussion in RV Interior modpage
+author=Ry
+modversion=0.1.0
+versionMin=42.0.0
+url=https://steamcommunity.com/workshop/filedetails/discussion/2822286426/592888629473342040/?tscn=1740219172
+poster=poster.png
+icon=icon.png
+pack=MH_MkII_tile
+tiledef=MH_MkII_tile 1234

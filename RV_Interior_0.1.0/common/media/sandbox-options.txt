@@ -1,0 +1,91 @@
+VERSION = 1,
+
+option RVInterior.SafeZombieDistance
+{
+        type = integer, min = 0, max = 100, default = 20,
+        page = RVInterior, translation = RVInterior_SafeZombieDistance,
+}
+
+option RVInterior.NotWhenChased
+{
+        type = boolean, default = true,
+        page = RVInterior, translation = RVInterior_NotWhenChased,
+}
+
+option RVInterior.Vehicles
+{
+        type = boolean, default = false,
+        page = RVInterior, translation = RVInterior_Vehicles,
+}
+
+option RVInterior.vehicle1
+{
+        type = string, default = Base.Van,
+        page = RVInterior, translation = RVInterior_vehicle1,
+}
+
+option RVInterior.vehicle2
+{
+        type = string, default = Base.StepVan,
+        page = RVInterior, translation = RVInterior_vehicle2,
+}
+
+option RVInterior.vehicle3
+{
+        type = string, default = Base.VanAmbulance,
+        page = RVInterior, translation = RVInterior_vehicle3,
+}
+
+option RVInterior.vehicle4
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle4,
+}
+
+option RVInterior.vehicle5
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle5,
+}
+
+option RVInterior.vehicle6
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle6,
+}
+
+option RVInterior.vehicle7
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle7,
+}
+
+option RVInterior.vehicle8
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle8,
+}
+
+option RVInterior.vehicle9
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle9,
+}
+
+option RVInterior.vehicle10
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle10,
+}
+
+option RVInterior.vehicle11
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle11,
+}
+
+option RVInterior.vehicle12
+{
+        type = string, default = ,
+        page = RVInterior, translation = RVInterior_vehicle12,
+}
