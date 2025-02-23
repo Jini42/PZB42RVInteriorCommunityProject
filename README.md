@@ -8,7 +8,8 @@ Manual installation required, put folder in:
 Windows: ..\Users\YOURNAME\Zomboid\mods
 Linux: ..\home\YOURNAME\Zomboid\mods
 
-_
+<br/><br/>
+<br/><br/>
 23.02.2025:
 Updated and assigned version number 0.1.0
 Changed mod folder structure, now shouldn't have duplicate files (at first I didn't know where to put what, so I put stuff everywhere)
@@ -29,8 +30,8 @@ I do have RenderLessZombies mod (overwriting files), so maybe that caused some i
 Maybe Zombie can still spawn inside interior, have seen it happen once with _simpl version but haven't seen since, but also didn't change anything regarding that in the code so it might happen still
 
 
-
-_
+<br/><br/>
+<br/><br/>
 21.02.2025:
 RV_Interior_simpl is a very simple working version, manual installation required 
 Current status v simpl:
